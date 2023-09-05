@@ -1,13 +1,20 @@
-main {
+.page-text {
     background-color: lightgrey;
+    padding: 1em;
 }
 
-.body {
-    background-image: url("assignment/record.png");
+body {
+    margin: 0;
+}
+
+.background-image {
+    background-image: url("record.png");
     background-repeat: repeat;
 }
 
-header {
+.header {
     background-color: navy;
     color: white;
+    padding: 10px;
+    text-align: center;
 }
